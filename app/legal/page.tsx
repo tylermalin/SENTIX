@@ -72,7 +72,7 @@ export default function LegalPage() {
               <div className="border-l-2 border-electric-cyan/30 pl-6 space-y-2">
                 <h3 className="text-xl font-bold text-white">1.1 No Investment Advice</h3>
                 <p>
-                  The information provided on this website, in the Whitepaper, and in any accompanying communication does not constitute investment, financial, trading, or other advice. The Sentix Token ($SNTX) is strictly a utility token designed to function as <strong className="text-electric-cyan">"Computational Capital"</strong> (fuel and bandwidth priority) within the Sentix Network. It is not a security, stock, bond, or investment contract. You should not treat any content from the Sentix Foundation as a solicitation to buy or sell any asset.
+                  The information provided on this website, in the Whitepaper, and in any accompanying communication does not constitute investment, financial, trading, or other advice. The Sentix Token ($SNTX) is strictly a utility token designed to function as <strong className="text-electric-cyan">&quot;Computational Capital&quot;</strong> (fuel and bandwidth priority) within the Sentix Network. It is not a security, stock, bond, or investment contract. You should not treat any content from the Sentix Foundation as a solicitation to buy or sell any asset.
                 </p>
               </div>
 
@@ -93,7 +93,7 @@ export default function LegalPage() {
               <div className="border-l-2 border-electric-cyan/30 pl-6 space-y-2">
                 <h3 className="text-xl font-bold text-white">1.4 Geographic Restrictions</h3>
                 <p>
-                  The public sale and distribution of $SNTX are not open to residents or citizens of the United States, China, North Korea, Iran, Syria, Cuba, or any other jurisdiction where such participation is prohibited by law (<strong className="text-white">"Restricted Jurisdictions"</strong>). By accessing this site, you affirm that you are not a resident of a Restricted Jurisdiction.
+                  The public sale and distribution of $SNTX are not open to residents or citizens of the United States, China, North Korea, Iran, Syria, Cuba, or any other jurisdiction where such participation is prohibited by law (<strong className="text-white">&quot;Restricted Jurisdictions&quot;</strong>). By accessing this site, you affirm that you are not a resident of a Restricted Jurisdiction.
                 </p>
               </div>
             </div>
@@ -113,9 +113,9 @@ export default function LegalPage() {
 
             <div className="space-y-4 text-gray-300 leading-relaxed">
               <div className="border-l-2 border-electric-cyan/30 pl-6 space-y-2">
-                <h3 className="text-xl font-bold text-white">2.1 "Safe Harbor" Statement</h3>
+                <h3 className="text-xl font-bold text-white">2.1 &quot;Safe Harbor&quot; Statement</h3>
                 <p>
-                  This website and the Sentix Whitepaper contain <strong className="text-electric-cyan">"forward-looking statements"</strong> regarding the Foundation's development roadmap, financial projections, and market position. These statements are identified by words such as "anticipate," "believe," "could," "estimate," "expect," "intend," "may," "plan," "potential," "predict," "project," "should," "will," and "would."
+                  This website and the Sentix Whitepaper contain <strong className="text-electric-cyan">&quot;forward-looking statements&quot;</strong> regarding the Foundation&apos;s development roadmap, financial projections, and market position. These statements are identified by words such as &quot;anticipate,&quot; &quot;believe,&quot; &quot;could,&quot; &quot;estimate,&quot; &quot;expect,&quot; &quot;intend,&quot; &quot;may,&quot; &quot;plan,&quot; &quot;potential,&quot; &quot;predict,&quot; &quot;project,&quot; &quot;should,&quot; &quot;will,&quot; and &quot;would.&quot;
                 </p>
               </div>
 
@@ -146,7 +146,7 @@ export default function LegalPage() {
             className="space-y-6"
           >
             <h2 className="text-3xl font-bold text-electric-cyan border-b border-electric-cyan/20 pb-2">
-              3.0 Terms and Conditions ("The Agreement")
+              3.0 Terms and Conditions (&quot;The Agreement&quot;)
             </h2>
 
             <div className="space-y-4 text-gray-300 leading-relaxed">
@@ -160,7 +160,7 @@ export default function LegalPage() {
               <div className="border-l-2 border-electric-cyan/30 pl-6 space-y-2">
                 <h3 className="text-xl font-bold text-white">3.2 Intellectual Property</h3>
                 <p>
-                  All content on this site, including the Sentix name, the $SNTX ticker, the <strong className="text-electric-cyan">"Industrial Sci-Fi"</strong> visual interface, logos, code, and text, is the property of the Sentix Foundation and is protected by international copyright and trademark laws.
+                  All content on this site, including the Sentix name, the $SNTX ticker, the <strong className="text-electric-cyan">&quot;Industrial Sci-Fi&quot;</strong> visual interface, logos, code, and text, is the property of the Sentix Foundation and is protected by international copyright and trademark laws.
                 </p>
                 <div className="mt-4 space-y-2">
                   <p><strong className="text-white">Permitted Use:</strong> You may view, download, and print materials for personal, non-commercial use or for the purpose of evaluating a partnership.</p>
@@ -176,7 +176,7 @@ export default function LegalPage() {
               </div>
 
               <div className="border-l-2 border-electric-cyan/30 pl-6 space-y-2">
-                <h3 className="text-xl font-bold text-white">3.4 User Conduct (The "Anti-Spam" Clause)</h3>
+                <h3 className="text-xl font-bold text-white">3.4 User Conduct (The &quot;Anti-Spam&quot; Clause)</h3>
                 <p>
                   You agree not to use the Sentix Network to transmit malicious code, spam the Sensory Layer with invalid RFQs, or attempt to destabilize the Ganglion consensus mechanism. Violations may result in the permanent blacklisting of your wallet address and the slashing of any staked $SNTX.
                 </p>

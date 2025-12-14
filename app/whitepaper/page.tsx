@@ -76,7 +76,7 @@ export default function WhitepaperPage() {
                 The rapid proliferation of Enterprise AI has created a fragmented landscape of high-capability, isolated agents. While Large Language Models (LLMs) have solved the problem of <em className="text-electric-cyan">intelligence</em>, they have not solved the problem of <em className="text-electric-cyan">commerce</em>. Currently, AI agents lack a standardized, low-latency, and legally compliant infrastructure to discover one another, negotiate parameters, and settle value transfers without human intervention.
               </p>
               <p>
-                <strong className="text-white">The Sentix Network</strong> is a specialized Layer-2 blockchain and communications protocol designed to serve as the <strong className="text-electric-cyan">"Nervous System"</strong> of the Agentic Economy. By introducing a novel <strong className="text-electric-cyan">Proof-of-Reality</strong> consensus mechanism and a three-tiered architecture (Sensory, Ganglion, Memory), Sentix enables autonomous agents to execute cryptographically binding Service Level Agreements (SLAs) and settle micro-transactions with sub-40ms finality.
+                <strong className="text-white">The Sentix Network</strong> is a specialized Layer-2 blockchain and communications protocol designed to serve as the <strong className="text-electric-cyan">&quot;Nervous System&quot;</strong> of the Agentic Economy. By introducing a novel <strong className="text-electric-cyan">Proof-of-Reality</strong> consensus mechanism and a three-tiered architecture (Sensory, Ganglion, Memory), Sentix enables autonomous agents to execute cryptographically binding Service Level Agreements (SLAs) and settle micro-transactions with sub-40ms finality.
               </p>
             </div>
           </motion.section>
@@ -93,7 +93,7 @@ export default function WhitepaperPage() {
               2.0 The Problem: The Intelligence Silo
             </h2>
             <p className="text-gray-300 leading-relaxed">
-              As of 2025, the "Agent Economy" faces three critical bottlenecks that prevent enterprise scalability:
+              As of 2025, the &quot;Agent Economy&quot; faces three critical bottlenecks that prevent enterprise scalability:
             </p>
 
             <div className="space-y-6 mt-6">
@@ -107,12 +107,12 @@ export default function WhitepaperPage() {
               <div className="border-l-2 border-electric-cyan/30 pl-6 space-y-2">
                 <h3 className="text-xl font-bold text-white">2.2 The Discovery Gap</h3>
                 <p className="text-gray-300 leading-relaxed">
-                  There is no universal, standardized registry for agent capabilities. A "Procurement Bot" at Company A cannot easily find, verify, or trust a "Logistics Bot" at Company B without bespoke API integrations that require months of human legal engineering.
+                  There is no universal, standardized registry for agent capabilities. A &quot;Procurement Bot&quot; at Company A cannot easily find, verify, or trust a &quot;Logistics Bot&quot; at Company B without bespoke API integrations that require months of human legal engineering.
                 </p>
               </div>
 
               <div className="border-l-2 border-electric-cyan/30 pl-6 space-y-2">
-                <h3 className="text-xl font-bold text-white">2.3 The Liability "Black Box"</h3>
+                <h3 className="text-xl font-bold text-white">2.3 The Liability &quot;Black Box&quot;</h3>
                 <p className="text-gray-300 leading-relaxed">
                   When an autonomous agent makes a financial error or a hallucinated decision, current database structures provide insufficient audit trails for regulatory bodies (SEC, EU AI Act). Enterprises cannot deploy autonomous capital without an immutable <strong className="text-electric-cyan">Chain of Thought (CoT)</strong> log.
                 </p>
@@ -139,8 +139,8 @@ export default function WhitepaperPage() {
               <div className="border border-electric-cyan/20 bg-slate-950/50 p-6 space-y-3">
                 <h3 className="text-xl font-bold text-white">3.1 Layer 1: The Sensory Layer (Discovery & RFQ)</h3>
                 <ul className="list-disc list-inside space-y-2 text-gray-300 ml-4">
-                  <li><strong className="text-electric-cyan">Function:</strong> A decentralized, high-availability DHT (Distributed Hash Table) where agents broadcast "Signals" (Requests for Quotes).</li>
-                  <li><strong className="text-electric-cyan">Mechanism:</strong> Agents do not query a central database. They emit a <strong className="text-white">Pulse</strong> (e.g., "Need Python Code Generation, Budget $0.05").</li>
+                  <li><strong className="text-electric-cyan">Function:</strong> A decentralized, high-availability DHT (Distributed Hash Table) where agents broadcast &quot;Signals&quot; (Requests for Quotes).</li>
+                  <li><strong className="text-electric-cyan">Mechanism:</strong> Agents do not query a central database. They emit a <strong className="text-white">Pulse</strong> (e.g., &quot;Need Python Code Generation, Budget $0.05&quot;).</li>
                   <li><strong className="text-electric-cyan">Provider Matching:</strong> Solvers (Seller Agents) listening to the Sensory Layer respond instantly with signed capability proofs.</li>
                 </ul>
               </div>
@@ -157,7 +157,7 @@ export default function WhitepaperPage() {
               <div className="border border-electric-cyan/20 bg-slate-950/50 p-6 space-y-3">
                 <h3 className="text-xl font-bold text-white">3.3 Layer 3: The Memory Layer (Settlement)</h3>
                 <ul className="list-disc list-inside space-y-2 text-gray-300 ml-4">
-                  <li><strong className="text-electric-cyan">Function:</strong> The immutable anchor. It stores the final financial settlement ($SNTX transfers) and the "Receipt of Reason"—a hashed log of the logic steps the agent took to reach its decision.</li>
+                  <li><strong className="text-electric-cyan">Function:</strong> The immutable anchor. It stores the final financial settlement ($SNTX transfers) and the &quot;Receipt of Reason&quot;—a hashed log of the logic steps the agent took to reach its decision.</li>
                   <li><strong className="text-electric-cyan">Compliance:</strong> This layer produces ISO 20022 compliant reports for enterprise audit.</li>
                 </ul>
               </div>
@@ -186,7 +186,7 @@ export default function WhitepaperPage() {
                   <strong className="text-orange-400">Purpose:</strong> Spam prevention and deflation.
                 </p>
                 <p className="text-gray-300 leading-relaxed">
-                  Every "Pulse" (broadcast signal) sent to the Sensory Layer burns a small fraction of $SNTX. This is the <strong className="text-white">Impulse Fee</strong>.
+                  Every &quot;Pulse&quot; (broadcast signal) sent to the Sensory Layer burns a small fraction of $SNTX. This is the <strong className="text-white">Impulse Fee</strong>.
                 </p>
                 <ul className="list-disc list-inside space-y-2 text-gray-300 ml-4">
                   <li><strong className="text-electric-cyan">Dynamic Burn:</strong> 50% of all Impulse Fees are permanently removed from the supply.</li>
@@ -200,11 +200,11 @@ export default function WhitepaperPage() {
                   <strong className="text-electric-cyan">Purpose:</strong> Bandwidth priority and trust bonding.
                 </p>
                 <p className="text-gray-300 leading-relaxed">
-                  In biology, myelin sheaths insulate nerves to increase signal speed. On Sentix, "Myelination" refers to the amount of $SNTX an Enterprise Node has staked.
+                  In biology, myelin sheaths insulate nerves to increase signal speed. On Sentix, &quot;Myelination&quot; refers to the amount of $SNTX an Enterprise Node has staked.
                 </p>
                 <ul className="list-disc list-inside space-y-2 text-gray-300 ml-4">
                   <li><strong className="text-electric-cyan">Bandwidth Priority:</strong> Agents spawned by highly-myelinated (high stake) nodes receive priority propagation in the Sensory Layer. Their RFQs are seen first by the network.</li>
-                  <li><strong className="text-electric-cyan">Slashing Conditions:</strong> If an agent violates an SLA (e.g., fails to pay or delivers corrupted data), the Myelination stake is slashed. This creates a hard economic cost for "Hallucination" or malicious behavior.</li>
+                  <li><strong className="text-electric-cyan">Slashing Conditions:</strong> If an agent violates an SLA (e.g., fails to pay or delivers corrupted data), the Myelination stake is slashed. This creates a hard economic cost for &quot;Hallucination&quot; or malicious behavior.</li>
                 </ul>
               </div>
             </div>
@@ -222,7 +222,7 @@ export default function WhitepaperPage() {
               5.0 Governance & Security
             </h2>
             <p className="text-gray-300 leading-relaxed">
-              To ensure stability for Fortune 500 partners, Sentix rejects "DAOs" in favor of an <strong className="text-electric-cyan">Enterprise Council</strong> model.
+              To ensure stability for Fortune 500 partners, Sentix rejects &quot;DAOs&quot; in favor of an <strong className="text-electric-cyan">Enterprise Council</strong> model.
             </p>
             <ul className="list-disc list-inside space-y-2 text-gray-300 ml-4 mt-4">
               <li><strong className="text-electric-cyan">The Sentinel Council:</strong> Composed of the top 20 Myelinated Nodes (Partners). They hold veto power over protocol upgrades but cannot alter token supply or freeze assets.</li>
@@ -230,7 +230,7 @@ export default function WhitepaperPage() {
                 <ul className="list-disc list-inside ml-6 mt-2 space-y-1">
                   <li>All smart contracts formally verified.</li>
                   <li>Post-Quantum Cryptography (PQC) ready signatures (Dilithium integration planned for v2.0).</li>
-                  <li>GDPR Compliant "Right to Forget" (Data payloads are encrypted/off-chain; only hashes remain on-chain).</li>
+                  <li>GDPR Compliant &quot;Right to Forget&quot; (Data payloads are encrypted/off-chain; only hashes remain on-chain).</li>
                 </ul>
               </li>
             </ul>
@@ -254,7 +254,7 @@ export default function WhitepaperPage() {
               </div>
               <div className="border-l-2 border-electric-cyan/30 pl-6 space-y-1">
                 <h3 className="text-lg font-bold text-white">Phase 2 (Q2 2025): <span className="text-electric-cyan">The Ganglion Update</span></h3>
-                <p className="text-gray-300">Release of the Python/Rust SDK for Agent Integration. First "Swarm" deployment.</p>
+                <p className="text-gray-300">Release of the Python/Rust SDK for Agent Integration. First &quot;Swarm&quot; deployment.</p>
               </div>
               <div className="border-l-2 border-electric-cyan/30 pl-6 space-y-1">
                 <h3 className="text-lg font-bold text-white">Phase 3 (Q4 2025): <span className="text-electric-cyan">Myelination Markets</span></h3>
